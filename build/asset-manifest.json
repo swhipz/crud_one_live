@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/swhipz.github.io/crud_one_live/static/css/main.2f03d938.css",
-    "main.js": "/swhipz.github.io/crud_one_live/static/js/main.1af50b04.js",
-    "static/js/488.1610083f.chunk.js": "/swhipz.github.io/crud_one_live/static/js/488.1610083f.chunk.js",
-    "index.html": "/swhipz.github.io/crud_one_live/index.html",
-    "main.2f03d938.css.map": "/swhipz.github.io/crud_one_live/static/css/main.2f03d938.css.map",
-    "main.1af50b04.js.map": "/swhipz.github.io/crud_one_live/static/js/main.1af50b04.js.map",
-    "488.1610083f.chunk.js.map": "/swhipz.github.io/crud_one_live/static/js/488.1610083f.chunk.js.map"
+    "main.css": "/crud_one_live/static/css/main.2f03d938.css",
+    "main.js": "/crud_one_live/static/js/main.c72ce363.js",
+    "static/js/488.1610083f.chunk.js": "/crud_one_live/static/js/488.1610083f.chunk.js",
+    "index.html": "/crud_one_live/index.html",
+    "main.2f03d938.css.map": "/crud_one_live/static/css/main.2f03d938.css.map",
+    "main.c72ce363.js.map": "/crud_one_live/static/js/main.c72ce363.js.map",
+    "488.1610083f.chunk.js.map": "/crud_one_live/static/js/488.1610083f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f03d938.css",
-    "static/js/main.1af50b04.js"
+    "static/js/main.c72ce363.js"
   ]
 }
